@@ -30,24 +30,15 @@ With over **2.7 years of experience** in iOS development, I specialize in buildi
   An app showcasing how to use **GraphQL** with **Apollo Client** in **Swift** to fetch and display data.-->
 
 ## 📱 Apps on the App Store:
-- [**Air Traffic Control Tools**](https://apps.apple.com/in/app/air-traffic-control-tools/id6476047950)  
-  An app designed for air traffic controllers to optimize and manage air traffic operations efficiently.
-  
+
 - [**Swipe Photo**](https://apps.apple.com/in/app/swipe-photo/id6477829631)  
   A photo viewer app that allows users to seamlessly swipe through their photos and enjoy a smooth user experience.
-
-- [**Vegan Bowls: Plant-based Meals**](https://apps.apple.com/in/app/vegan-bowls-plant-based-meals/id1641679505)  
-  A plant-based meal app offering a variety of delicious vegan bowls with detailed recipes and ingredient lists.
 
 - [**Nip: Drink Better**](https://apps.apple.com/us/app/nip-drink-better/id6714476327)  
   A health-focused app to help users track their hydration and improve their drinking habits with a personalized approach.
 
 ## 📈 GitHub Stats:
 ![Jaymeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayuunadkat&show_icons=true&count_private=true)
-
-## 📝 Articles:
-- [**Understanding SwiftUI**](https://your-article-link.com)  
-  A beginner's guide to understanding **SwiftUI** for building modern iOS apps.
   
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/jaymeen-unadkat-a249a7225/)
