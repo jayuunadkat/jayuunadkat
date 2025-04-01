@@ -6,7 +6,7 @@ With over **2.11 years of experience** in iOS development, I specialize in build
 ## 🚀 About Me
 - **Current Role:** Software Engineer at **Stealth**, focusing on building cutting-edge iOS applications.
 - **Experience:** 
-  - 2.10 years in iOS development, with expertise in **Swift**, **SwiftUI**, and **UIKit**.
+  - 2.11 years in iOS development, with expertise in **Swift**, **SwiftUI**, and **UIKit**.
   - Experience in implementing **VIPER**, **MVVM** & **MVC architecture**, **Core Data**, **Firebase**, and **GraphQL** integrations.
   - Skilled in implementing **Push Notifications**, **In-App Purchases**, **DeepLinking**, and **Location Services**.
   - Hands-on experience with **App Store submission** and deployment.
