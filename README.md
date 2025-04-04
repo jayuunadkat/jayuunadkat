@@ -1,12 +1,12 @@
 # Hi, I'm Jaymeen Unadkat 👋  
 **Software Engineer | iOS Engineer | Swift & SwiftUI Enthusiast** 
 
-With over **2.11 years of experience** in iOS development, I specialize in building seamless, high-performance mobile applications using **Swift** and **SwiftUI**. I have hands-on experience in working with various iOS frameworks and tools, optimizing app performance, and ensuring the best user experiences.
+With over **3+ years of experience** in iOS development, I specialize in building seamless, high-performance mobile applications using **Swift** and **SwiftUI**. I have hands-on experience in working with various iOS frameworks and tools, optimizing app performance, and ensuring the best user experiences.
 
 ## 🚀 About Me
 - **Current Role:** Software Engineer at **Stealth**, focusing on building cutting-edge iOS applications.
 - **Experience:** 
-  - 2.11 years in iOS development, with expertise in **Swift**, **SwiftUI**, and **UIKit**.
+  - 3+ years in iOS development, with expertise in **Swift**, **SwiftUI**, and **UIKit**.
   - Experience in implementing **VIPER**, **MVVM** & **MVC architecture**, **Core Data**, **Firebase**, and **GraphQL** integrations.
   - Skilled in implementing **Push Notifications**, **In-App Purchases**, **DeepLinking**, and **Location Services**.
   - Hands-on experience with **App Store submission** and deployment.
