@@ -3,6 +3,8 @@
 
 With over **3+ years of experience** in iOS development, I specialize in building seamless, high-performance mobile applications using **Swift** and **SwiftUI**. I have hands-on experience in working with various iOS frameworks and tools, optimizing app performance, and ensuring the best user experiences.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayuunadkat&label=Profile%20views&color=0e75b6&style=flat" alt="jayuunadkat" /> </p>
+
 ## 🚀 About Me
 - **Current Role:** Software Engineer at **Stealth**, focusing on building cutting-edge iOS applications.
 - **Experience:** 
